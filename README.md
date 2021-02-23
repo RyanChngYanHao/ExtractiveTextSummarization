@@ -8,11 +8,10 @@
 ## 5. Generate Summary
 ## 6. Comparing the Orginal Text versus Summary
 
-'''
-<<Title>>
+####<<Title>>
 Transgender student shares distressing experience of MOE allegedly blocking her HRT treatment - The Online Citizen Asia
 
-<<Original text>>
+####<<Original text>>
 Using a throwaway account on reddit/r/SGExams, one transgender student recalled her difficult experience in school, specifically with the Ministry of Education (MOE) allegedly interfering her hormone replacement therapy (HRT) treatment that was prescribed by her doctor after she was diagnosed with gender dysphoria.
 The student recalled her experience in an all-boys-primary school, describing it as “the worse period of my life”.
 She wrote, “I couldn’t fit in and constantly got bullied because I was ‘too soft’ and ‘needed to man up to the bullies’.
@@ -56,13 +55,13 @@ A spokesperson for Transgender SG said: “For a long time, the challenges and s
 © 2006 - 2021 The Online Citizen
 
 
-<<Summary>>
+####<<Summary>>
  The student recalled her experience in an all-boys-primary school, describing it as “the worse period of my life”. There, she was diagnosed with gender dysphoria. Worryingly, several replies to the thread shared similar incidents of LGBT students facing discrimination in schools. Specifically, 77.6 per cent of transgender students surveyed by TransgenderSG reported negative experiences in school ranging from bullying to sexual abuse.
 
-<<Title>>
+####<<Title>>
 S'porean youth detained under ISA over alleged plans to attack Muslims at two mosques; netizens call for rehabilitation instead of retributive punishment - The Online Citizen Asia
 
-<<Original text>>
+####<<Original text>>
 A 16-year-old Singaporean was detained in December last year under the Internal Security Act (ISA) for allegedly drawing up “detailed plans and preparations” to attack Muslims at two mosques in Singapore using a machete, said the Internal Security Department (ISD) on Wednesday (27 January).
 According to the ISD in a statement today, the youth, who is a Protestant Christian of Indian ethnicity, “is the first detainee to be inspired by far-right extremist ideology” and the youngest individual so far to be detained under the ISA for terrorism-related activities.
 Brenton Tarrant, the Australian gunman singlehandedly responsible for the Christchurch mosque massacre that took 51 lives in March 2019, had purportedly influenced the youth’s views.
@@ -108,13 +107,13 @@ A couple of commenters called for greater security measures to be implemented in
 © 2006 - 2021 The Online Citizen
 
 
-<<Summary>>
+####<<Summary>>
  He conducted online reconnaissance and research on both mosques to prepare for the attack,” the ISD added. “He eventually dropped both ideas due to logistical and personal safety concerns,” according to the ISD.
 
-<<Title>>
+####<<Title>>
 Netizens suggest students should be afforded choice to opt out from high-element activities in school camps - The Online Citizen Asia
 
-<<Original text>>
+####<<Original text>>
 Source: TODAY
 All schools have suspended outdoor activities involving heights such as rock climbing and rope obstacles with immediate effect, following the death of a student who fell during a high-element activity at Safra Yishun last week, The Straits Times reported.
 The boy, aged 15 from Anglo-Chinese School (Independent) was taken to Khoo Teck Puat Hospital (KTPH) after the incident at about 2 pm on 3 February and was pronounced dead the next morning.
@@ -134,7 +133,7 @@ One commenter said that students do not deserve to get the learning benefits gai
 © 2006 - 2021 The Online Citizen
 
 
-<<Summary>>
+####<<Summary>>
  Students participate in about two or three school cohort camps at upper primary and secondary levels, which provide them with the authentic outdoor environments — including high-element activities involving students clearing an obstacle course at a height — to apply their learning. Several others also suggested many other options should be made available for students to participate in order to build their characters, saying that forcing them to join high-element activities could be “traumatising” for the students. Meanwhile, many others said that these activities are necessary, provided that safety procedures are enhanced, as accidents can happen at all times. Many users also suggested that these activities should be continued.
-'''
+
 
