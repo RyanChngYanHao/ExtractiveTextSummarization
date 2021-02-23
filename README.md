@@ -1,6 +1,9 @@
 # ExtractiveTextSummarization - Python 3 script (beautifulsoup4 + nltk)
 
 ## 0. Perface & Load Packages
+I have taken 3 articles from some online posts.
+Post -> Algorithm -> Title + Extractive Summary (lift sentences with high score)
+
 ## 1. Create Word Frequency Table
 ## 2. Tokenize Sentence
 ## 3. Score the Sentences against Word Frequency
@@ -8,7 +11,7 @@
 ## 5. Generate Summary
 ## 6. Comparing the Orginal Text versus Summary
 
-### Title
+### Title (1)
 Transgender student shares distressing experience of MOE allegedly blocking her HRT treatment - The Online Citizen Asia
 
 ### Original text
@@ -58,7 +61,7 @@ A spokesperson for Transgender SG said: “For a long time, the challenges and s
 ### Summary
  The student recalled her experience in an all-boys-primary school, describing it as “the worse period of my life”. There, she was diagnosed with gender dysphoria. Worryingly, several replies to the thread shared similar incidents of LGBT students facing discrimination in schools. Specifically, 77.6 per cent of transgender students surveyed by TransgenderSG reported negative experiences in school ranging from bullying to sexual abuse.
 
-### Title
+### Title (2)
 S'porean youth detained under ISA over alleged plans to attack Muslims at two mosques; netizens call for rehabilitation instead of retributive punishment - The Online Citizen Asia
 
 ### Original text
@@ -110,7 +113,7 @@ A couple of commenters called for greater security measures to be implemented in
 ### Summary
  He conducted online reconnaissance and research on both mosques to prepare for the attack,” the ISD added. “He eventually dropped both ideas due to logistical and personal safety concerns,” according to the ISD.
 
-### Title
+### Title (3)
 Netizens suggest students should be afforded choice to opt out from high-element activities in school camps - The Online Citizen Asia
 
 ### Original text
